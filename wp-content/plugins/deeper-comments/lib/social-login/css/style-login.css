@@ -1,0 +1,247 @@
+
+/*BACKEND ONLY*/
+.depc_login_button input {
+	background: transparent;
+	border: none;
+	color: #fff;
+	display: inline-block !important;
+	height: 20px;
+}
+.depc-form-table .depc_login_button_long {
+	display: inline-block;
+	width: 272px;
+	margin: 0 0 0 0;
+	vertical-align: middle;
+	padding: 5px;
+}
+.depc_linkedin_button .dashicons,
+.depc_linkedin_button_admin {
+	font-family: 'bwsicons' !important;
+}
+.depc_linkedin_button .dashicons:before {
+	content: "\e91b";
+	font-family: 'bwsicons' !important;
+	font-size: 20px;
+}
+.rtl .depc_login_button .dashicons {
+	border-right: none;
+	border-right: 1px solid rgba( 0, 0, 0, 0.2 );
+	margin-top: 4px;
+}
+.depc_span_icon {
+	margin: 0 0 0 0;
+	min-height: 50px;
+}
+.depc-form-table .depc_span_icon {
+	margin: 5px 0 0 2px;
+}
+.depc_buttons_block .depc_login_button {
+	padding: 4px 0 0 0;
+}
+.depc_buttons_block .depc_login_button .depc_button_text {
+	padding-left: 10px;
+	height: 100%;
+}
+.depc_buttons_block .depc_login_button_short span {
+  	padding: 0px 0 0 2px;
+}
+.dashicons .dashicons-welcome-write-blog {
+	width: 10px;
+	height: 10px;
+}
+.depc_login_button_icon {
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+	box-sizing: border-box;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top: 4px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+	overflow: hidden;
+	vertical-align: middle;
+}
+.depc_login_button .depc_button_text {
+	padding: 5px 0px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff;
+}
+.depc_login_button  {
+	display: inline-block;
+	box-sizing: border-box;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+	overflow: hidden;
+	width: 100%;
+	min-height: 32px;
+	margin-bottom: 5px;
+	color: #fff;
+}
+.depc_login_button span {
+	vertical-align: middle;
+}
+.depc_login_button .dashicons {
+	min-width: 28px;
+	text-align: center;
+	color: #fff;
+}
+.depc_login_button .depc_google_icon {
+	background-image: url('../images/g-normal.png');
+	position: relative;
+	margin-top: -3px;
+	margin-left: 1px;
+	width: 31px;
+	height: 30px;
+	display: inline-block;
+}
+.depc_login_button_short .depc_google_icon {
+	width: 28px;
+	min-height: 30px;
+}
+.depc_login_button_icon  {
+	height: 32px !important;
+	width: 32px !important;
+}
+.depc_google_client_data .depc_google_icon {
+	background-image: url('../images/g-normal.png');
+	position: relative;
+	margin-top: -4px;
+	margin-left: -4px;
+	width: 31px;
+	height: 30px;
+	display: inline-block;
+}
+.depc_facebook_button {
+	background-color: #4080ff;
+}
+.depc_twitter_button {
+	background-color: #1da1f2;
+}
+.depc_linkedin_button {
+	background-color: #4080ff;
+}
+.depc_facebook_button:hover {
+	background-color: #2f62c9;
+	color: #fff;
+}
+.depc_twitter_button:hover {
+	background-color: #167bb9;
+	color: #fff;
+}
+.depc_linkedin_button:hover {
+	background-color: #00689a;
+	color: #fff;
+}
+.depc_button_top .depc_login_button_long :first-of-type {
+	margin-top: 0;
+}
+.depc_button_top .depc_login_button_long :last-of-type {
+	margin-bottom: 30px;
+}
+.depc_button_bottom .depc_login_button_long :first-of-type {
+	margin-top: 30px;
+}
+.depc_button_bottom .depc_login_button_long :last-of-type {
+	margin-bottom: 0;
+}
+.depc_login_button.depc_google_button {
+	padding: 0;
+	background: white;
+	color: #757575;
+	border: 1px solid #7e8993;
+}
+.depc_google_button.depc_google_dark_btn {
+	background: #4285f4;
+	border: none;
+}
+.depc_login_button {
+    width: 37px;
+    margin-right: 10px;
+    height: 37px;
+    vertical-align: middle;
+}
+.depc_buttons_block {
+    position: relative;
+    display: inline-block;
+}
+.depc_google_button span.depc_icon {
+	background: url(../images/g-normal.png) #ffffff 5px 50% no-repeat;
+	background-position: center;
+    border-radius: 5px 0 0 5px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 18px;
+	height: 18px;
+	padding: 8px;
+	margin: 1px;
+}
+.rtl .depc_google_button span.depc_icon {
+	border-radius: 0 5px 5px 0;
+}
+.depc_google_button span.depc_buttonText {
+	font-size: 14px;
+	font-family: 'Roboto-Medium', sans-serif;
+	font-weight: bold;
+	color: #000000;
+	margin-left: 23px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+.rtl .depc_google_button span.depc_buttonText {
+	margin-right: 23px;
+    margin-left: 8px;
+}
+.depc_google_button.depc_google_dark_btn span.depc_buttonText {
+	color: #FFFFFF;
+}
+
+@media screen and ( max-width: 1300px ) {
+	.depc-form-table .depc_login_button_long {
+		width: 80%;
+		max-width: 272px;
+	}
+	.depc_button_text input {
+		width: 80%;
+	}
+}
+
+@media screen and ( max-width: 1170px ) {
+	.depc-form-table .depc_login_button_long {
+		width: 78%;
+	}
+	.depc_button_text input {
+		width: 78%;
+	}
+}
+@media screen and ( max-width: 782px ) {
+	.depc-form-table .depc_login_button_long {
+		width: 100%;
+	}
+	.depc_button_text input {
+		width: 80% !important;
+	}
+}
+@media screen and ( max-width: 463px ) {
+	.depc-form-table .depc_login_button_long {
+		width: 80%;
+	}
+}
+@media screen and ( max-width: 413px ) {
+	.depc-form-table .depc_login_button_long {
+		width: 77%;
+	}
+}
+@media screen and ( max-width: 378px ) {
+	.depc-form-table .depc_login_button_long {
+		width: 70%;
+	}
+	.depc_button_text input {
+		width: 70% !important;
+	}
+}

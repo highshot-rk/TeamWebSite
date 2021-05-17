@@ -1,0 +1,156 @@
+body.depc_twentytwenty .depc_buttons_block + .comment-notes {
+	margin-top: 10px !important;
+}
+.depc_login_button {
+	display: inline-block;
+	margin: 5px !important;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid rgba( 0, 0, 0, 0.2 );
+	background-color: rgba( 0, 0, 0, 0.4 );
+	overflow: hidden;
+}
+.depc_button_top .depc_login_button_short span{
+	height: 32px !important;
+	width: 32px !important;
+	padding: 0 0 0 5px;
+}
+.depc_login_button:hover {
+	background-color: rgba( 0, 0, 0, 0.5 );
+	text-decoration: none;
+	border: 1px solid rgba( 0, 0, 0, 0.2 );
+}
+.depc_login_button .dashicons {
+	display: table-cell;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: middle;
+	font-size: 20px;
+	color: #fff;
+	min-width: 28px;
+}
+.depc_login_button .dashicons {
+	min-width: 28px;
+	text-align: center;
+	color: #fff;
+	margin: 2px 0px 0px 0px;
+}
+.depc_login_button_short .dashicons {
+	text-align: center;
+	color: #fff;
+	min-width: 32px;
+	color: #fff;
+	padding: 5px 0 5px 2px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.rtl .depc_login_button .dashicons {
+	border-right: none;
+	border-left: 1px solid rgba( 0, 0, 0, 0.2 );
+}
+#depc_linkedin_button > .dashicons:before {
+	content: "\e91b";
+	font-family: 'bwsicons' !important;
+}
+.depc_login_button .depc_button_text {
+	display: table-cell;
+	margin: 0 10px;
+	padding: 5px 10px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff;
+}
+.depc_buttons_block {
+	display: flex;
+	flex-wrap: wrap;
+}
+#depc_facebook_button {
+	background-color: #4080ff;
+}
+#depc_facebook_button:hover {
+	background-color: #2f62c9;
+}
+#depc_twitter_button {
+	background-color: #1da1f2;
+}
+#depc_twitter_button:hover {
+	background-color: #167bb9;
+}
+#depc_linkedin_button {
+	background-color: #007bb6;
+}
+#depc_linkedin_button:hover {
+	background-color: #00689a;
+}
+.depc_google_button {
+	margin-bottom: 10px;
+	display: inline-block;
+	background: white;
+	color: #757575;
+	border-radius: 5px;
+	white-space: nowrap;
+	text-decoration: none;
+	border: 1px solid #7e8993;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.depc_google_button.depc_google_dark_btn {
+	background: #4285f4;
+	border: none;
+}
+.depc_google_button span.depc_icon {
+	background: url(../images/g-normal.png) #ffffff 5px 50% no-repeat;
+	background-position: center;
+	border-radius: 5px 0 0 5px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 18px;
+	height: 18px;
+	margin: 1px;
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	-ms-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.rtl .depc_google_button span.depc_icon {
+	border-radius: 0 5px 5px 0;
+}
+.depc_google_button span.depc_buttonText {
+	font-size: 14px;
+	font-family: 'Roboto-Medium', sans-serif;
+	font-weight: bold;
+	color: #000000;
+	margin-left: 23px;
+	margin-right: 8px;
+	vertical-align: middle;
+}
+.rtl .depc_google_button span.depc_buttonText {
+	margin-right: 23px;
+    margin-left: 8px;
+}
+.depc_google_button.depc_google_dark_btn span.depc_buttonText {
+	color: #FFFFFF;
+}
+.depc_buttons_block {
+    position: relative;
+    display: inline-block;
+}
+
+span.depc_buttonText {
+    display: none;
+}
+
+.depc_button_text {
+    display: none !important;
+}
+
+.depc_login_button {
+    border: solid 1px #fff;
+    padding: 3px 10px !important;
+}

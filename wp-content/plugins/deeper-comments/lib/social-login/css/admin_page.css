@@ -1,0 +1,7 @@
+/*
+ * menu sidebar
+ */
+#toplevel_page_depc-social-login .wp-menu-image:before {
+	content: "\e92d";
+	font-family: 'bwsicons' !important;
+}

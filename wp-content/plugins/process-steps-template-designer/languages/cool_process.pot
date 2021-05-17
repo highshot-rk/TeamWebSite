@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Process Steps Template Designer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-26 10:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.0.4"
+
+#. Author of the plugin
+msgid "Cool Timeline Team"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.cooltimeline.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "Process Steps Template Designer"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Process Steps Template Designer plugin allow you to show your workflow "
+"business process in a creative step by step design template."
+msgstr ""
+
+#: includes/process_functions.php:11
+msgid "Read More"
+msgstr ""

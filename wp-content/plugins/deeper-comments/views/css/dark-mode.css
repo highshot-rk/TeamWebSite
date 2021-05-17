@@ -1,0 +1,8 @@
+.dpr-wrap {
+    filter: invert(1);
+    background: #aaa;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 25px 15px !important;
+    border-radius: 3px;
+}

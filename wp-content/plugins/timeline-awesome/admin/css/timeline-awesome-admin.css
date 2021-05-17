@@ -1,0 +1,32 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+ .button.cf-media-gallery__browse {
+	background-color: #000;
+ }
+
+.btn-buy {
+	background-color: #191970;
+	color: #ffffff;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	border-radius: 40px;
+	font-weight: bold;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 5px;
+}
+.btn-buy:hover {
+	background-color: #191970;
+	color: #ffffff;
+}
+
+.doc-link {
+	color: #63c6a7 !important;
+}
+.pro-link {
+	color: #ff0036 !important;
+}

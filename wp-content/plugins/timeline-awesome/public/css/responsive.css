@@ -1,0 +1,225 @@
+@media only screen and (max-width: 1440px) {
+
+}
+
+@media only screen and (max-width: 1366px) {
+	
+}
+
+@media only screen and (max-width: 1280px) {
+	
+}
+
+@media only screen and (max-width: 1024px) {
+	
+}
+
+@media only screen and (max-width: 768px) {
+	#vertical-background.vertical-4 .timeline-item {
+		padding: 0 30px 150px 30px;
+	}
+
+	#vertical-background.vertical-4 .timeline-background:before {
+		display: none;
+	}
+
+	#vertical-background.vertical-4 .timeline-item:before {
+		display: none;
+	}
+
+	#vertical-background .timeline-item--active .timeline__content-title {
+		padding: 0;
+	}
+
+	#vertical-background.vertical-4 .timeline-title.mobile {
+	    display: block;
+    	color: #fff;
+   	 	margin-top: 20px;
+	}
+
+	#vertical-background .timeline-item--active .timeline__content-title {
+		margin: 0px 0 20px 0;
+	}
+
+	.vertical-5 .timeline .swiper-container {
+		height: calc(100vh - 100px)!important;
+	}
+
+	#timeline-vertical-6 .timeline-img, 
+	#timeline-vertical-6 .content-text {
+		float: none;
+		width: 100%;
+		padding: 0;
+	}
+
+	#timeline-vertical-6 .timeline-img {
+		margin-bottom: 20px;
+	}
+
+	.timeline-horizontal-2 .events-content li {
+		padding: 0 30px;
+	}
+
+	.timeline-vertical-10.timeline-content {
+		max-width: 90%;
+		margin: auto;
+	}
+
+	#timeline-horizontal-4 .tl-4-items-arrow-left, #timeline-horizontal-4 .tl-4-items-arrow-right {
+		top: 46%;
+	}
+
+	#timeline-horizontal-4 .tl-4-items-arrow-right {
+		right: 11%;
+	}
+
+	#timeline-horizontal-4 .timeline-4-content-inner .timeline-title {
+    	line-height: 1;
+    	font-size: 38px;
+	}
+
+	#timeline-horizontal-4 .timeline-4-content-inner .timeline-text {
+	    line-height: 20px;
+	    font-size: 16px;
+	}
+
+	#timeline-horizontal-9 .content img {
+		width: 100%!important;
+		float: none!important;
+	}
+
+	#timeline-horizontal-9 .timeline-desc {
+		width: 100%!important;
+		float: none!important;
+	}
+
+	#timeline-horizontal-9 .description-flex-container {
+		width: 100%;
+		max-width: 100%;
+	}
+
+	.timeline-container.timeline-theme-9 {
+		overflow: hidden;
+	}
+
+	#timeline-horizontal-9 .input span::before {
+		display: none;
+	}
+
+	#timeline-horizontal-4 .timeline-4-content, #timeline-horizontal-4 .tl-image {
+		height: 50%;
+	}
+
+	#timeline-horizontal-4 .timeline-4-content, #timeline-horizontal-4 .tl-image img {
+		object-fit: cover;
+	}
+
+}
+
+@media only screen and (max-width: 640px) {
+	.vertical-8 .timeline::before {
+		left: 50px;
+	}
+
+	.vertical-8 .content-perspective {
+		top: 120px;
+	}
+
+	.vertical-8 .event {
+		margin-bottom: 150px;
+	}
+
+	#vertical-basic.vertical-8 .timeline-info {
+		position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    transform: translate(50%, -50%);
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+    	margin-left: 10px;
+	}
+
+	#timeline-vertical-9 .timeline-v9 {
+		margin-right: 0;
+		margin-left: 0;
+		padding-left: 1em;
+	}
+
+	#timeline-vertical-9 .timeline-v9 .event:after {
+		left: -1.4em;
+	}
+
+	#timeline-vertical-9 .timeline-info.mobile {
+	    display: block;
+	    color: #ffffff;
+	    font-style: italic;
+	    font-size: 14px;
+	    font-weight: 500;
+	}
+
+	#timeline-vertical-9 .icon-v9 {
+		top: 25px;
+	}
+
+	#horizontal-1 .timeline-list {
+		max-width: 100%;
+    	width: 500px;
+	}
+
+	.timeline-horizontal .timeline-dots-wrap {
+		width: auto!important;
+		max-width: 100%;
+		position: absolute;
+    	overflow: hidden;
+	}
+
+	#timeline-horizontal-4 .tl-4-items-arrow-left, #timeline-horizontal-4 .tl-4-items-arrow-right {
+		top: 39%;
+    	transform: translateY(-50% );
+    	margin-top: 28px;
+	}
+
+	#timeline-horizontal-4 .tl-4-items-arrow-right {
+	    right: 8%;
+	}
+
+	#timeline-horizontal-6 .tl-item {
+		height: calc(100vh - 100px);
+		margin-bottom: 30px;
+	}
+
+	#timeline-horizontal-9 .input {
+	    width: 50px!important;
+	    height: 50px!important;
+	}
+
+	#timeline-horizontal-9 .input span::after {
+		transform: none;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    bottom: 0;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    justify-items: center;
+	}
+
+	#timeline-vertical-6 .timeline__nav ul li {
+		font-size: 14px;
+	}
+
+	#timeline-vertical-6 .timeline__nav ul li.active {
+		font-size: 15px;
+	}
+
+	#timeline-vertical-6 .timeline__nav ul li.active:after {
+		right: 0px;
+    	width: 100%;
+	}
+
+	.timeline-item {
+		max-width: 100%;
+	}
+}	
